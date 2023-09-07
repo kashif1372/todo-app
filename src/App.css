@@ -160,7 +160,8 @@
         flex-direction: column;
       }
       form input{
-        width: 80%;
+        margin-left: 10px;
+        width: 70%;
       }
 
         .todo-list {
